@@ -1,6 +1,6 @@
 # FD Printing - Landing Page Undangan Digital
 
-![Preview](https://weddingmarket.com/storage/images/artikelidea/c71cbe729b907e77b82e1ca7f0d4583850a79c6a.webp)
+![Preview](https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
 Landing page responsif untuk perusahaan penyedia jasa pembuatan undangan digital dengan berbagai template menarik dan fitur pemesanan langsung via WhatsApp.
 
@@ -79,4 +79,4 @@ Pull request dipersilakan. Untuk perubahan besar, harap buka issue terlebih dahu
 
 ---
 
-**FD Printing** © 2023 - [Contoh Demo](#) | [Kontak Kami](#contact)
+**FD Printing** © 2025 - [Contoh Demo](https://aleaengineer.github.io/FDPrinting-landingpage) | [Kontak Kami](#contact)
